@@ -13,7 +13,7 @@ see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-a
 	### Android
 	- generate **key.jks** and place in root **android_module** (change the config **key.properties**)
 	- flutter build aar
-	- Replace '{{arrPath}}' in **settings.gradle** and **app/build.gradle** with the output path
+	- Replace **{{arrPath}}** in **settings.gradle** and **app/build.gradle** with the output path
 	- Run
 
 	### iOS
